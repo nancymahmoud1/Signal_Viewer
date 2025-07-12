@@ -56,11 +56,11 @@ Below are screenshots of the application demonstrating its key features:
 ### **Setup and Installation**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YassienTawfikk/Dynamic-Multi-Channel-Signal-Viewer.git
+   git clone https://github.com/nancymahmoud1/Signal_Viewer.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd Dynamic-Multi-Channel-Signal-Viewer
+   cd Signal_Viewer
    ```
 3. **Install Required Dependencies**:
    ```bash
